@@ -32,3 +32,27 @@
 
 }
 .escola-texto { font-size: 18px;}
+.estudantes{background-color: #83f1b1;}
+.estudantes-imagem{ width: 100px;}
+.estudantes-titulo{ padding: 40px 0 0 150px;}
+
+.estudante-div {text-align: center;
+    display: flex;
+    justify-content: center;
+
+    display: grid;
+    grid-template-columns: 10% 20% 20% 20% 20% 10%;   
+}
+
+.topico-estudante{
+    padding: 0 60px;}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+}
